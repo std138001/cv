@@ -21,14 +21,6 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 
 <details>
 <summary>Click to expand</summary>
-### Forthnet Group
-<details>
-<summary>Click to expand</summary>
-| | |
-|---|---|
-| Business Intelligence | Aug 2018 - Present |
-
-</details>
 
 | Company | Position | Duration |
 | --- | --- | --- |
