@@ -25,13 +25,59 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 <details>
   <summary>Forthnet Group</summary>
   
-| Company | Position | Duration |
-| --- | --- | --- |
-| Forthnet Group | Business Intelligence / Data Warehouse Analyst | Aug 2018 - Present |
-| Forthnet Group | 2nd Level Tech Support | Oct 2016 - Aug 2018 |
-| Forthnet Group | 1st Level Tech Support | Oct 2013 - Oct 2016 |
+| Position | Duration |
+| --- | --- |
+| Business Intelligence / Data Warehouse Analyst | Aug 2018 - Present |
+| 2nd Level Tech Support | Oct 2016 - Aug 2018 |
+| 1st Level Tech Support | Oct 2013 - Oct 2016 |
 
 </details>
+
+<details>
+  <summary>e-fashion.gr</summary>
+  
+| Position | Duration |
+| --- | --- |
+| Site Administrator | Jul 2011 - Aug 2012 |
+
+</details>
+
+<details>
+  <summary>P.C. Podimatas AudioVisual S.A.</summary>
+  
+| Position | Duration |
+| --- | --- |
+| IT Support | Sep 2009 - Jun 2011 |
+
+</details>
+
+<details>
+  <summary>Oxygono Live</summary>
+  
+| Position | Duration |
+| --- | --- |
+| Site Administrator | Oct 2007 - May 2008 |
+
+</details>
+
+<details>
+  <summary>Delta Cucine</summary>
+  
+| Position | Duration |
+| --- | --- |
+| Customer Service | Sep 2004 - Aug 2007 |
+
+</details>
+
+<details>
+  <summary>OTE Group Inc</summary>
+  
+| Position | Duration |
+| --- | --- |
+| Customer Service | Feb 1998 - Mar 2000 |
+
+</details>
+
 </details>
 
 ## Education
