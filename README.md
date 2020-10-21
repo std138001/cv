@@ -22,13 +22,17 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 <details>
 <summary>Click to expand</summary>
 
+<details>
+  <summary>Forthnet Group</summary>
+  
 | Company | Position | Duration |
 | --- | --- | --- |
 | Forthnet Group | Business Intelligence / Data Warehouse Analyst | Aug 2018 - Present |
 | Forthnet Group | 2nd Level Tech Support | Oct 2016 - Aug 2018 |
 | Forthnet Group | 1st Level Tech Support | Oct 2013 - Oct 2016 |
-</details>
 
+</details>
+</details>
 
 ## Education
 
