@@ -3,11 +3,11 @@
 
 ### About
 
-<img align="right" width="200" height="183" src="https://cloud.githubusercontent.com/assets/532272/21507867/3376e9fe-cc4a-11e6-9350-7ec4f680da36.gif">
+<img align="right" width="300" height="448" src="https://houtest-my.sharepoint.com/personal/std138001_ac_eap_gr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fstd138001%5Fac%5Feap%5Fgr%2FDocuments%2FSDY61%2FERG1%2Fprofile%5Fphoto%5Fscaled%2Ejpg&parent=%2Fpersonal%2Fstd138001%5Fac%5Feap%5Fgr%2FDocuments%2FSDY61%2FERG1">
 Experienced Business Intelligence Analyst with a demonstrated history of working in the telecommunications industry. Skilled in Oracle Database, PL/SQL, MySQL, Sybase, Oracle ODI, BI Publisher and Infoview. Strong research professional. Currenltly studying in a Master of Science - MS focused in Pervasive and Mobile Computing Systems Msc from Hellenic Open University.
 
 
-This `README.md` is generated with `markdown-magic` [view the raw file](https://raw.githubusercontent.com/DavidWells/markdown-magic/master/README.md) to see how.
+
 
 [Video demo](http://www.youtube.com/watch?v=4V2utrvxwJ8) • [Example Repo](https://github.com/DavidWells/repo-using-markdown-magic)
 
