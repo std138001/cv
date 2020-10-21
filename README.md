@@ -8,7 +8,7 @@
 | <img src="https://github.com/std138001/desktop-tutorial/blob/master/map-marker.png"> | D*****  ** St. A*****, Athens, Greece |
 | <img src="https://github.com/std138001/desktop-tutorial/blob/master/cellphone-android.png"> | +3069******** |
 | <img src="https://github.com/std138001/desktop-tutorial/blob/master/email.png"> | std138001@ac.eap.gr |
-| <img src="https://github.com/std138001/desktop-tutorial/blob/master/linkedin.png" | https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/ |
+| <img src="https://github.com/std138001/desktop-tutorial/blob/master/linkedin.png"> | https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/ |
 
 ### About
 <details>
