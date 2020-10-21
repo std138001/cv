@@ -19,7 +19,7 @@ This `README.md` is generated with `markdown-magic` [view the raw file](https://
 [Video demo](http://www.youtube.com/watch?v=4V2utrvxwJ8) • [Example Repo](https://github.com/DavidWells/repo-using-markdown-magic)
 
 ## Table of Contents
-<!-- ⛔️ MD-MAGIC-EXAMPLE:START (TOC:collapse=true&collapseText=Click to expand) -->
+
 <details>
 <summary>Click to expand</summary>
 
@@ -43,7 +43,7 @@ This `README.md` is generated with `markdown-magic` [view the raw file](https://
 - [License](#license)
 
 </details>
-<!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
+
 
 ## Install
 
