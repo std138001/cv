@@ -3,7 +3,7 @@
 
 ### About
 
-<img align="right" width="200" height="299" src="https://houtest-my.sharepoint.com/:i:/g/personal/std138001_ac_eap_gr/EZhF-8lDL-hKlbYq3hLrGjYB42eX_6ACaXbpzTuiy5h7JA?e=DEZsrO">
+<img align="right" width="200" height="299" src="https://github.com/std138001/desktop-tutorial/blob/master/profile_photo_scaled.gif">
 Experienced Business Intelligence Analyst with a demonstrated history of working in the telecommunications industry. Skilled in Oracle Database, PL/SQL, MySQL, Sybase, Oracle ODI, BI Publisher and Infoview. Strong research professional. Currenltly studying in a Master of Science - MS focused in Pervasive and Mobile Computing Systems Msc from Hellenic Open University.
 
 
