@@ -4,7 +4,8 @@
 ## Business Intelligence / Data Warehouse Analyst at Forthnet Group
 
 
-[<img src="https://github.com/std138001/desktop-tutorial/blob/master/mailicon-small.png">](mailto:std138001@ac.eap.gr) 
+[<img src="https://github.com/std138001/desktop-tutorial/blob/master/mailicon-small.png">](mailto:std138001@ac.eap.gr) std138001@ac.eap.gr
+
 [<img src="https://github.com/std138001/desktop-tutorial/blob/master/LinkedIn-Icon-small.png">](https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/) 
 
 ### About
