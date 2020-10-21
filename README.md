@@ -1,4 +1,4 @@
-<img align="right" width="300" height="448" src="https://github.com/std138001/desktop-tutorial/blob/master/profile_photo_scaled.jpg">
+<img align="right" width="200" height="299" src="https://github.com/std138001/desktop-tutorial/blob/master/profile_photo_scaled.gif">
 
 # Konstantinos Astropekakis
 ## Business Intelligence / Data Warehouse Analyst at Forthnet Group
