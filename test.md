@@ -1,6 +1,6 @@
 ## Table of Contents
 
-<details>
+
 <summary>Click to expand</summary>
 
 - [About](#about)
@@ -21,5 +21,3 @@
 - [Custom Transform Demo](#custom-transform-demo)
 - [Prior Art](#prior-art)
 - [License](#license)
-
-</details>
