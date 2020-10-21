@@ -80,9 +80,9 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 
 </details>
 
-
+## Education
 <details>
-  <summary> <h2> Education </h2> </summary>
+  <summary>show more2> </summary>
 </details>
 
 ## Licenses & certifications
