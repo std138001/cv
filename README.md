@@ -5,7 +5,7 @@
 <img align="right" width="200" height="299" src="https://github.com/std138001/desktop-tutorial/blob/master/profile_photo_scaled.gif">
 Experienced Business Intelligence Analyst with a demonstrated history of working in the telecommunications industry. Skilled in Oracle Database, PL/SQL, MySQL, Sybase, Oracle ODI, BI Publisher and Infoview. Strong research professional. Currenltly studying in a Master of Science - MS focused in Pervasive and Mobile Computing Systems Msc from Hellenic Open University.
 
-[mail](mailto:std138001@ac.eap.gr) [LinkedIn] (https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/)
+[mail](mailto:std138001@ac.eap.gr) [LinkedIn](https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/)
 
 ## Table of Contents
 
