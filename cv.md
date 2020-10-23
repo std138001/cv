@@ -75,6 +75,33 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 
 <details>
 <summary>Click to expand</summary>
+
+| Skill/Technology/Tool | Category | Level |
+| --- | --- |
+| Data Analysis | Industry Knowledge | Excellent |
+| Mobile Devices | Industry Knowledge | Good |
+| Internet Protocol (IP) | Industry Knowledge | Good |
+| Wireless Technologies | Industry Knowldege | Good |
+| Oracle | Tools & Technologies | Excellent |
+| PL/SQL | Tools & Technologies | Very Good |
+| MySQL | Tools & Technologies | Very Good |
+| Sybase | Tools & Technologies | Very Good |
+| BI Publisher | Tools & Technologies | Excellent |
+| Oracle Data Integrator | Tools & Technologies | Good |
+| XML | Tools & Technologies | Good |
+| Python | Tools & Technologies | Good |
+| Java | Tools & Technologies | Good |
+| Javascript | Tools & Technologies | Good |
+| CSS | Tools & Technologies | Fair |
+| HTML | Tools & Technologies | Good |
+| PHP | Tools & Technologies | Fair |
+| Microsoft Office | Tools & Technologies | Very Good |
+| Microsoft Visio | Tools & Technologies | Good |
+| Microsoft Visual Studio | Tools & Technologies | Good |
+| Windows 10 | Operating Systems | Excellent |
+| OS X | Operating Systems | Good |
+| Linux | Operating Systems | Good |
+| iOS | Mobile Operating Systems | Excellent |
 </details>
 
 ## Languages
