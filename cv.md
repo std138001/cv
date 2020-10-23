@@ -21,9 +21,6 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 
 <details>
 <summary>Click to expand</summary>
-
-<details>
-  <summary>Forthnet Group</summary>
   
 | Company | Position | Duration |
 | --- | --- |--- |
@@ -36,60 +33,15 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 | Delta Cucine | Customer Service | Sep 2004 - Aug 2007 |
 | OTE Group Inc | Customer Service | Feb 1998 - Mar 2000 |
 
-
-
-</details>
-
-<details>
-  <summary>e-fashion.gr</summary>
-  
-| Position | Duration |
-| --- | --- |
-| Site Administrator | Jul 2011 - Aug 2012 |
-
-</details>
-
-<details>
-  <summary>P.C. Podimatas AudioVisual S.A.</summary>
-  
-| Position | Duration |
-| --- | --- |
-| IT Support | Sep 2009 - Jun 2011 |
-
-</details>
-
-<details>
-  <summary>Oxygono Live</summary>
-  
-| Position | Duration |
-| --- | --- |
-| Site Administrator | Oct 2007 - May 2008 |
-
-</details>
-
-<details>
-  <summary>Delta Cucine</summary>
-  
-| Position | Duration |
-| --- | --- |
-| Customer Service | Sep 2004 - Aug 2007 |
-
-</details>
-
-<details>
-  <summary>OTE Group Inc</summary>
-  
-| Position | Duration |
-| --- | --- |
-| Customer Service | Feb 1998 - Mar 2000 |
-
-</details>
-
 </details>
 
 ## Education
 <details>
 <summary>Click to expand</summary>
+| Institution | Department | Course | Level | Duration |
+| --- | --- | --- | --- | --- |
+| Hellenic Open University | Science & Technology | Pervasive and Mobile Computing Systems Msc | Postgraduate | Oct 2018 - Present |
+| Hellenic Open University | Science & Technology | Computer Science | Undergraduate | Oct 2013 - 2018 |
 </details>
 
 ## Licenses & certifications
