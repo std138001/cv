@@ -6,7 +6,7 @@
 | | |
 |---|---|
 | ![map-marker](https://github.com/std138001/desktop-tutorial/blob/master/map-marker.png) | D*****  ** St. A*****, Athens, Greece |
-| ![cellphone-android](https://github.com/std138001/desktop-tutorial/blob/master/cellphone-android.png) | +3069******** |
+| ![cellphone-android](https://github.com/std138001/desktop-tutorial/blob/master/cellphone-android.png) | +306999999999 |
 | ![email](https://github.com/std138001/desktop-tutorial/blob/master/email.png) | std138001@ac.eap.gr |
 | ![linkedin](https://github.com/std138001/desktop-tutorial/blob/master/linkedin.png) | https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/ |
 
@@ -25,11 +25,18 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 <details>
   <summary>Forthnet Group</summary>
   
-| Position | Duration |
-| --- | --- |
-| Business Intelligence / Data Warehouse Analyst | Aug 2018 - Present |
-| 2nd Level Tech Support | Oct 2016 - Aug 2018 |
-| 1st Level Tech Support | Oct 2013 - Oct 2016 |
+| Company | Position | Duration |
+| --- | --- |--- |
+| Forthnet Group | Business Intelligence / Data Warehouse Analyst | Aug 2018 - Present |
+| Forthnet Group | 2nd Level Tech Support | Oct 2016 - Aug 2018 |
+| Forthnet Group | 1st Level Tech Support | Oct 2013 - Oct 2016 |
+| e-fashion.gr | Site Administrator | Jul 2011 - Aug 2012 |
+| P.C. Podimatas AudioVisual S.A. | IT Support | Sep 2009 - Jun 2011 |
+| Oxygono Live | Site Administrator | Oct 2007 - May 2008 |
+| Delta Cucine | Customer Service | Sep 2004 - Aug 2007 |
+| OTE Group Inc | Customer Service | Feb 1998 - Mar 2000 |
+
+
 
 </details>
 
