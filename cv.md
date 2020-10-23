@@ -38,10 +38,12 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 ## Education
 <details>
 <summary>Click to expand</summary>
+  
 | Institution | Department | Course | Level | Duration |
 | --- | --- | --- | --- | --- |
 | Hellenic Open University | Science & Technology | Pervasive and Mobile Computing Systems Msc | Postgraduate | Oct 2018 - Present |
 | Hellenic Open University | Science & Technology | Computer Science | Undergraduate | Oct 2013 - 2018 |
+
 </details>
 
 ## Licenses & certifications
