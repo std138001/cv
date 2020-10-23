@@ -76,9 +76,9 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 <details>
 <summary>Click to expand</summary>
 
-| Skill | Category | Level |
-| --- | --- |
-| Data Analysis | Industry Knowledge | Excellent |
+| Organization | Rule | Duration |
+| --- | --- | --- |
+| Forthnet Group | Forthnet Socail Media Ambassador | Nov 2016 - Present | 
 
 </details>
 
