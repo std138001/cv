@@ -50,12 +50,25 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 
 <details>
 <summary>Click to expand</summary>
+  
+| Organization | Course | Date of completion |
+| --- | --- |--- |  
+| Udemy | SQL - MySQL for Data Analytics and Business Intelligence | Jul 2018 |
+| Coursera | Crafting Quality Code | Apr 2013 |
+| Coursera | Computer Networks | Mar 2013 |
+| Coursera | Interactive Programming in Python| Dec 2012 |
+
 </details>
 
 ## Volunteer Experience
 
 <details>
 <summary>Click to expand</summary>
+  
+| Organization | Rule | Duration |
+| --- | --- | --- |
+| Forthnet Group | Forthnet Socail Media Ambassador | Nov 2016 - Present | 
+
 </details>
 
 ## Skills
