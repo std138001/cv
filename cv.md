@@ -108,12 +108,10 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 ## Languages
 <details>
 <summary>Click to expand</summary>
-  
-
-| Language | Level | Certificate |
-| --- | --- |
+ 
+| Skill/Technology/Tool | Category | Level |
+| --- | --- | --- |
 | Greek | Native | - |
 | English | Very Good | First Certificate in English |
-
 
 </details>
