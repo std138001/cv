@@ -114,4 +114,5 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 | Greek | Native | - |
 | English | Very Good | First Certificate in English |
 
+
 </details>
