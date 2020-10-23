@@ -77,7 +77,7 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 <summary>Click to expand</summary>
   
  
- | Skill-Technology-Tool | Category | Level |
+ | Skill Technology Tool | Category | Level |
  | --- | --- |
  | Data Analysis | Industry Knowledge | Excellent |
  | Mobile Devices | Industry Knowledge | Good |
