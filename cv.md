@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| ![map-marker](https://github.com/std138001/desktop-tutorial/blob/master/map-marker.png) | D*****  ** St. A*****, Athens, Greece |
-| ![cellphone-android](https://github.com/std138001/desktop-tutorial/blob/master/cellphone-android.png) | +306999999999 |
+| ![map-marker](https://github.com/std138001/desktop-tutorial/blob/master/map-marker.png) | Athens, Greece |
+| ![cellphone-android](https://github.com/std138001/desktop-tutorial/blob/master/cellphone-android.png) | |
 | ![email](https://github.com/std138001/desktop-tutorial/blob/master/email.png) | std138001@ac.eap.gr |
 | ![linkedin](https://github.com/std138001/desktop-tutorial/blob/master/linkedin.png) | https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/ |
 
