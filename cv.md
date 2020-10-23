@@ -77,8 +77,9 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 <summary>Click to expand</summary>
   
  
- | Skill/Technology/Tool | Category | Level |
+ | Skill | Category | Level |
  | --- | --- |
+ | A | C | X |
 
 
 </details>
