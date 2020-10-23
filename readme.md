@@ -1,5 +1,3 @@
-![map-marker](https://github.com/std138001/desktop-tutorial/blob/master/map-marker.png)
-
 <img align="right" width="200" height="299" src="/profile_photo_scaled.gif">
 
 # Konstantinos Astropekakis
@@ -117,9 +115,3 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 | English | Very Good | First Certificate in English |
 
 </details>
-
-| Language | Level | Certificate |
-| --- | --- | --- |
-| Greek | Native | - |
-| English | Very Good | First Certificate in English |
-
