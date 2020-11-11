@@ -1,4 +1,4 @@
-<img align="right" width="200" height="299" src="profile_photo_scaled.gif">
+<img align="right" width="300" height="399" src="profile_photo_scaled.gif">
 
 # Konstantinos Astropekakis
 ## Business Intelligence / Data Warehouse Analyst at Forthnet Group
@@ -11,16 +11,11 @@
 | ![linkedin](linkedin.png) | https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/ |
 
 ### About
-<details>
-<summary>Click to expand</summary>
+
 Experienced Business Intelligence Analyst with a demonstrated history of working in the telecommunications industry. Skilled in Oracle Database, PL/SQL, MySQL, Sybase, Oracle ODI, BI Publisher and Infoview. Strong research professional. Currenltly studying in a Master of Science - MS focused in Pervasive and Mobile Computing Systems Msc from Hellenic Open University.
-</details>
 
 
 ## Experience
-
-<details>
-<summary>Click to expand</summary>
   
 | Company | Position | Duration |
 | --- | --- |--- |
@@ -33,23 +28,16 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 | Delta Cucine | Customer Service | Sep 2004 - Aug 2007 |
 | OTE Group Inc | Customer Service | Feb 1998 - Mar 2000 |
 
-</details>
 
 ## Education
-<details>
-<summary>Click to expand</summary>
-  
+
 | Institution | Department | Course | Level | Duration |
 | --- | --- | --- | --- | --- |
 | Hellenic Open University | Science & Technology | Pervasive and Mobile Computing Systems Msc | Postgraduate | Oct 2018 - Present |
 | Hellenic Open University | Science & Technology | Computer Science | Undergraduate | Oct 2013 - 2018 |
 
-</details>
 
 ## Licenses & certifications
-
-<details>
-<summary>Click to expand</summary>
   
 | Organization | Course | Date of completion |
 | --- | --- |--- |  
@@ -58,23 +46,15 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 | Coursera | Computer Networks | Mar 2013 |
 | Coursera | Interactive Programming in Python| Dec 2012 |
 
-</details>
 
 ## Volunteer Experience
-
-<details>
-<summary>Click to expand</summary>
-  
+ 
 | Organization | Rule | Duration |
 | --- | --- | --- |
 | Forthnet Group | Forthnet Socail Media Ambassador | Nov 2016 - Present | 
 
-</details>
 
 ## Skills
-
-<details>
-<summary>Click to expand</summary>
 
 | Skill/Technology/Tool | Category | Level |
 | --- | --- | --- |
@@ -103,15 +83,11 @@ Experienced Business Intelligence Analyst with a demonstrated history of working
 | Linux | Operating Systems | Good |
 | iOS | Mobile Operating Systems | Excellent |
 
-</details>
 
 ## Languages
-<details>
-<summary>Click to expand</summary>
  
 | Language | Level | Certificate |
 | --- | --- | --- |
 | Greek | Native | - |
 | English | Very Good | First Certificate in English |
 
-</details>
