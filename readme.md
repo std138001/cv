@@ -1,7 +1,7 @@
 # Konstantinos Astropekakis 
 ## Business Intelligence / Data Warehouse Analyst at Forthnet Group 
 
-![proflepic](https://github.com/std138001/cv/blob/master/profile_photo_scaled.gif)
+![proflepic](profile_photo_scaled.gif)
 
 | | |
 | --- | --- |
