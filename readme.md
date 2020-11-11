@@ -1,16 +1,15 @@
 # Konstantinos Astropekakis 
-## siness Intelligence / Data Warehouse Analyst at Forthnet Group 
+## Business Intelligence / Data Warehouse Analyst at Forthnet Group 
 
-| | | |
-| --- | --- | --- |
-| | | ![proflepic](https://github.com/std138001/cv/blob/master/profile_photo_scaled.gif) |
+![proflepic](https://github.com/std138001/cv/blob/master/profile_photo_scaled.gif)
 
 | | |
-|---|---|
-| ![map-marker](https://github.com/std138001/desktop-tutorial/blob/master/map-marker.png) | *Athens, Greece* |
+| --- | --- |
+| ![map-marker](https://github.com/std138001/desktop-tutorial/blob/master/map-marker.png) | *Athens, Greece*|
 | ![cellphone-android](https://github.com/std138001/desktop-tutorial/blob/master/cellphone-android.png) | |
 | ![email](https://github.com/std138001/desktop-tutorial/blob/master/email.png) | std138001@ac.eap.gr |
 | ![linkedin](https://github.com/std138001/desktop-tutorial/blob/master/linkedin.png) | https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/ |
+
 
 ### About
 
