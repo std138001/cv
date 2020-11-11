@@ -1,4 +1,4 @@
-<img align="right" width="300" height="399" src="profile_photo_scaled.gif">
+<img align="right" width="200" height="299" src="profile_photo_scaled.gif">
 
 # Konstantinos Astropekakis
 ## Business Intelligence / Data Warehouse Analyst at Forthnet Group
@@ -7,8 +7,8 @@
 |---|---|
 | ![map-marker](map-marker.png) | Athens, Greece |
 | ![cellphone-android](cellphone-android.png) | |
-| ![email](email.png) | std138001@ac.eap.gr |
-| ![linkedin](linkedin.png) | https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/ |
+| ![email](email.png) | [](std138001@ac.eap.gr) |
+| ![linkedin](linkedin.png) | [](https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/) |
 
 ### About
 
