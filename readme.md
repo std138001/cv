@@ -5,10 +5,10 @@
 
 | | |
 | --- | --- |
-| ![map-marker](https://github.com/std138001/desktop-tutorial/blob/master/map-marker.png) | *Athens, Greece*|
-| ![cellphone-android](https://github.com/std138001/desktop-tutorial/blob/master/cellphone-android.png) | |
-| ![email](https://github.com/std138001/desktop-tutorial/blob/master/email.png) | std138001@ac.eap.gr |
-| ![linkedin](https://github.com/std138001/desktop-tutorial/blob/master/linkedin.png) | https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/ |
+| ![map-marker](map-marker.png) | *Athens, Greece*|
+| ![cellphone-android](cellphone-android.png) | |
+| ![email](email.png) | std138001@ac.eap.gr |
+| ![linkedin](linkedin.png) | https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/ |
 
 
 ### About
