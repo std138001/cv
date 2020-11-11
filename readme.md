@@ -7,8 +7,8 @@
 |---|---|
 | ![map-marker](map-marker.png) | Athens, Greece |
 | ![cellphone-android](cellphone-android.png) | |
-| ![email](email.png) | [](std138001@ac.eap.gr) |
-| ![linkedin](linkedin.png) | [](https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/) |
+| ![email](email.png) | [std138001@ac.eap.gr](std138001@ac.eap.gr) |
+| ![linkedin](linkedin.png) | [https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/](https://www.linkedin.com/in/konstantinos-astropekakis-b0ba74143/) |
 
 ### About
 
